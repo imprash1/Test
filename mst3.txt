@@ -1,1 +1,7 @@
 amend made after local 2 and b4 local3
+
+small change
+
+branch1 - insert
+
+master - insert
